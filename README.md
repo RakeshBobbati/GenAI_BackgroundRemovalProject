@@ -4,11 +4,6 @@ Python version 3.7.5 (Required version of python)
 
 This repository contains project on background change using Isnet. Which internally uses car part classifier model and licence plate detection to mask licence plate with a custom logo. Shadow models based on pix2pix
 
-```
-@author = Rakesh Bobbati
-email = rakeshbobbati@gmail.com
-
-```
 # Requirements 
 
 Install requirements
