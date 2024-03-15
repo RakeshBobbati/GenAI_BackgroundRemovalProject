@@ -18,7 +18,10 @@ Training codes are in relevant folders
 ```
 
 # Input Image
-![input image](car.jpg)
+![input image](./images/car.jpg)
 
 # Output 
-![output image](result.jpg)
+![output image](./images/result.jpg)
+
+# Model Flowchart
+![output image](./images/ModelFlow.png)
